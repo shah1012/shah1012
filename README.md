@@ -1,4 +1,4 @@
-### Hello, I'm Dax 👋
+# Hello, I'm Dax 👋
 
 ### Current Projects
 
