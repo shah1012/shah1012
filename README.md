@@ -13,6 +13,7 @@
 - Facebook Messenger Clone - A app I built using yotube with ReactJs Firebase and MaterialUI
 - Netflix Clone - A app I built with ReactJS and Tmdb
 - Chuck Norris App - A fun little project i made using an api and ReactJs
+- Spotify Clone - A app me and my friend made it is a MERN stack app with most of the features from spotify
 
 ### Currently Learning
 
