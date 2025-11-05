@@ -1,6 +1,7 @@
 # Welcome! 👋
 
-## Ny name is Dax and I am a student at UW Madison studying Computer Science
+### My name is Dax 
+#### I am currently a student at UW Madison studying Computer Science
 
 ### Current Projects
 
