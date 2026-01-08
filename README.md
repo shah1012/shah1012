@@ -5,4 +5,6 @@
 
 ### Current Projects
 
-- TBA
+- TAOfficeHours App
+- BadgerCertify
+- CursiveAI
